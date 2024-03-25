@@ -20,7 +20,6 @@ https://www.youtube.com/playlist?list=PLNxd9fYeqXeYhu-E3T5CC_XjgO9aNuzjq
 
 
 
-https://www.youtube.com/watch?v=u4YfzFUb6_Q
 
 
 
