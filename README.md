@@ -77,3 +77,27 @@ https://zhuanlan.zhihu.com/p/669939217
 
 
 
+
+
+todo 51
+
+二叉搜索树的后序遍历序列
+https://www.nowcoder.com/practice/a861533d45854474ac791d90e447bafd?tpId=13&&tqId=11176&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking
+
+
+二叉树从根到叶节点的和为给定值的所有路径
+
+138
+https://leetcode.com/problems/copy-list-with-random-pointer/
+
+233
+https://leetcode.com/problems/number-of-digit-one/
+
+
+https://leetcode.cn/problems/shu-zu-zhong-de-ni-xu-dui-lcof/description/
+
+1823
+https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/
+
+
+
