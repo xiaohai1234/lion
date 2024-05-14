@@ -20,10 +20,6 @@ https://www.youtube.com/playlist?list=PLNxd9fYeqXeYhu-E3T5CC_XjgO9aNuzjq
 
 
 
-
-
-
-
 The Apex Predators Fighting To Feed Their 21 Lion Family | Pride In Battle | Full Documentary
 
 https://www.youtube.com/watch?v=srRaCkQVvR0
@@ -43,6 +39,8 @@ https://www.youtube.com/watch?v=Hq3gIiiLX_8
 
 
 
+
+https://www.zhihu.com/tardis/zm/art/362219711?source_id=1003
 
 
 c++ primer plus
